@@ -12,4 +12,9 @@ c)  O(n) --- Reason is that the recursion will loop n times.
 
 ## Exercise II
 
+n - floor
 
+Loop through floors until an egg is broken.
+return the floor - 1 to get the floor where eggs are safe.
+
+The run time complexity of this would be O(n) as we will need to loop through the floors till we find the optimal floor.
